@@ -36,6 +36,8 @@
           <string>uber</string>
           <string>lyft</string>
           <string>sumupmerchant</string>
+          <string>windmobile</string>
+          <string>windwifi</string>
         </array>
       </config-file>
     </platform>
